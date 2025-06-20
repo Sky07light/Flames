@@ -1,0 +1,74 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-image: url("https://www.hdwallpapers.in/download/pink_cherry_blossom_flowers_blue_sky_anime_background_hd_anime_background-HD.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.Mbox{
+    border: 2px solid blanchedalmond;
+    width: 30vw;
+    height: 80vh;
+    position: relative;
+    left: 35vw;
+    top: 10vh;
+    /* border-radius: 20px; */
+    background-color:blanchedalmond;
+}
+
+img{
+    border: 0,2px solid white;
+    border-radius: 15px;
+    width: 95%;
+    position: relative;
+    margin: 10px
+}
+.box{
+    border: 0.2px solid white;
+    border-radius: 25px;
+    margin: 25px 15px;
+    height: 90%;
+    width: 80%;
+    margin: 2vw 3vw;
+    background-color: white;
+}
+ul{
+    display: flex;
+}
+ul li{
+    list-style: none;
+    padding: 2px 8px;
+    margin: 0px 5px;
+    border: 0.5px solid blanchedalmond;
+    border-radius: 15px;
+    position: relative;
+    left: 20px;
+}
+
+div h1{
+    position: relative;
+    left: 10px;
+    top: 20px;
+}
+
+div p{
+    position: relative;
+    top: 30px;
+    left: 10px;
+}
+
+div a{
+    border: 1px solid rgb(153, 153, 238);
+    position: relative;
+    top: 100px;
+    left: 40%;
+    text-decoration: none;
+    color: white;
+    padding: 3px 8px;
+    border-radius: 10px;;
+    background-color: rgb(153, 153, 238);
+}
